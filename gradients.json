@@ -1,4 +1,10 @@
 [
+
+    {
+        "name": "Blu",
+        "colors": ["#ED1B2F", "#C61D23"]
+    },
+    {
     {
         "name": "Blu",
         "colors": ["#00416A", "#E4E5E6"]
